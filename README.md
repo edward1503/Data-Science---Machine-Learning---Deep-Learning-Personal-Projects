@@ -1,5 +1,7 @@
 # Data Science & AI Engineering - Personal Projects
 
+![](image/AIO_2025_v3_4c92b0d78d.svg)
+
 ## Introduction
 
 I am passionate about leveraging data science and artificial intelligence to solve real-world problems and drive meaningful insights. With a strong interest in machine learning, deep learning, and AI engineering, I'm dedicated to exploring cutting-edge techniques and building practical solutions that transform raw data into actionable intelligence. This repository showcases my journey through various AI and ML domains, demonstrating my commitment to continuous learning and innovation in the field.
