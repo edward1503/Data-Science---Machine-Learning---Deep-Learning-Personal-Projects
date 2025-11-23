@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I am passionate about leveraging data science and artificial intelligence to solve real-world problems and drive meaningful insights. With a strong interest in machine learning, deep learning, and AI engineering, I'm dedicated to exploring cutting-edge techniques and building practical solutions that transform raw data into actionable intelligence. This repository showcases my journey through various AI and ML domains, demonstrating my commitment to continuous learning and innovation in the field.
+I am passionate about leveraging data science and artificial intelligence to solve real-world problems and drive meaningful insights. This repository showcases my journey through various AI and ML domains, demonstrating my commitment to continuous learning and innovation in the field.
 
 ---
 
@@ -62,7 +62,7 @@ Large Language Models and AI agents projects, including fine-tuning, prompt engi
 
 | Project Name | Tools | Description |
 |---|---|---|
-| Vicuna RAG Chatbot |  langchain, huggingface| A basic with RAG and ChromaDB to process PDF and Q&A from documents.|
+| Vicuna RAG Chatbot |  langchain, huggingface| A basic chatbot with RAG and ChromaDB to process PDF and Q&A from documents.|
 | | | |
 | | | |
 
