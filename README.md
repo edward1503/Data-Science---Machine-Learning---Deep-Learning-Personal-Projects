@@ -12,9 +12,10 @@ Foundational machine learning projects focusing on supervised and unsupervised l
 
 | Project Name | Tools | Description |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Heart Disease Diagnosis | KNN, Naive Bayes, Decision Tree | |
+| Advanced House Price Prediction | | |
+| Transfer Optimization System | | |
+|Customer Segmentation for Marketing Strategy | | |
 
 ---
 
@@ -24,8 +25,8 @@ Projects focused on time-series analysis, forecasting, and temporal pattern reco
 
 | Project Name | Tools | Description |
 |---|---|---|
-| | | |
-| | | |
+| Stock Price Prediction with NLinear & DLinear| | |
+| Transformer + LSTM/GRU for Vietnamese Stocks Price Prediction | | |
 | | | |
 
 ---
@@ -48,8 +49,7 @@ Text analysis and processing projects including sentiment analysis, text classif
 
 | Project Name | Tools | Description |
 |---|---|---|
-| | | |
-| | | |
+| Vietnamese News Topic Modeling  |  |  |
 | | | |
 
 ---
@@ -60,11 +60,27 @@ Large Language Models and AI agents projects, including fine-tuning, prompt engi
 
 | Project Name | Tools | Description |
 |---|---|---|
-| | | |
+| Vicuna RAG Chatbot |  langchain, huggingface| A basic with RAG and ChromaDB to process PDF and Q&A from documents.|
 | | | |
 | | | |
 
 ---
+
+## 6. Ops
+
+Tools for MLOps and deployment
+
+| Project Name | Tools | Description |
+|---|---|---|
+| VectorDB for AI Application | |  |
+| Data Version Control (DVC) | | |
+| Apache Airflow for scheduling and orchestration | | |
+| MLflow for model tracking and versioning | | |
+| Grafana, Prometheus, Loki for Monitoring, Logging | | |
+| FEAST for Feature Storing | | |
+| AWS (EC2, S3, ECR, ECS) | | |
+| FastAPI for deploy ML model | | |
+--- 
 
 ## Getting Started
 
